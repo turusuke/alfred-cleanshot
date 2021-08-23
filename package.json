@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Operate [CleanShot](https://cleanshot.com/) using the URL scheme API. (This tool is an unofficial tool.)",
   "scripts": {
-    "postinstall": "alfred-link",
-    "preuninstall": "alfred-unlink"
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
   },
   "repository": {
     "type": "git",
