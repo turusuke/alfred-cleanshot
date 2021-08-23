@@ -6,6 +6,7 @@
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/turusuke/alfred-cleanshot.git"
