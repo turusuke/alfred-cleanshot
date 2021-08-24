@@ -1,6 +1,6 @@
 {
   "name": "alfred-cleanshot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Operate [CleanShot](https://cleanshot.com/) using the URL scheme API. (This tool is an unofficial tool.)",
   "scripts": {
     "postinstall": "alfy-init",
