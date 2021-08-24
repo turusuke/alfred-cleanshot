@@ -7,7 +7,7 @@ You can easily take advantage of the many features of CleanShot from the Alfred 
 
 ## Workflow nodes
 
-![Workflow nodes](https://i.gyazo.com/f07cc5ae1e63f4a0ccd4d7de4d985cf1.png)
+![Workflow nodes](https://i.gyazo.com/f3eda128e791247896b06c4a698d671b.png)
 
 ## Usages
 
